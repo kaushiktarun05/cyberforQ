@@ -1,4 +1,4 @@
-# CyberFortQ
+# CyberforQ
 
 **CyberFortQ** is a phishing and social engineering attack tool. Users can perform phishing techniques using the amazing GUI, ultimately building skills to better protect against cyber threats in real-world scenarios.
 
@@ -16,16 +16,16 @@
 
 ## Disclaimer
 
-**CyberFortQ** is strictly for educational and ethical use. This tool is designed for controlled environments such as cybersecurity training labs, workshops, and educational institutions. Unauthorized use of this tool outside of these environments may violate privacy and security laws.
+**CyberforQ** is strictly for educational and ethical use. This tool is designed for controlled environments such as cybersecurity training labs, workshops, and educational institutions. Unauthorized use of this tool outside of these environments may violate privacy and security laws.
 
 ---
 
 ## Installation
 
    ```bash
-   git clone https://github.com/kaushiktarun05/CyberfortQ.git
+   git clone https://github.com/kaushiktarun05/CyberforQ.git
 
-   cd CyberFortQ
+   cd CyberforQ
 
    npm install electron
 
