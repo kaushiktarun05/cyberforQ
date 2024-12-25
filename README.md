@@ -12,9 +12,9 @@ In comparison analysis of the phishing tools that are currently available, it wa
 
 **LIST OF TABLES**
 
-| Table No | Table Description | Page No |
-| :---: | :---- | :---: |
-| Table 1 | Comparison of Phishing Tools with *CyberForQ* | 15  |
+| Table No | Table Description | 
+| :---: | :---- | 
+| Table 1 | Comparison of Phishing Tools with *CyberForQ* | 
 
 
 **Chapter 1: INTRODUCTION**
